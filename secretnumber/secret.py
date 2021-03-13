@@ -15,3 +15,5 @@ def guess(x):
             break
 
 guess(10)
+
+# here is the tutorial I am following https://www.youtube.com/watch?v=8ext9G7xspg&ab_channel=freeCodeCamp.org
