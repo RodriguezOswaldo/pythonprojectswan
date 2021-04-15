@@ -13,5 +13,6 @@ def play():
         return 'You win!'
       
    
-
+def is_win(player, opponent):
+    return 'empty'
 play()
