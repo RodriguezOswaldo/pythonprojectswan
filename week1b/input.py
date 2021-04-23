@@ -11,7 +11,7 @@ currentAge = int(input('How old are you: \n'))
 month = input('What month were you born: \n')
 day = input('What day is your birthday" \n')
 
-# print(currentAge)
+print(currentAge)
 year = datetime.now().year
 date_str = f'{year}-{month}-{day}'
 date_obj = datetime.strptime(date_str, '%Y-%m-%d')
